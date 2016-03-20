@@ -9,6 +9,8 @@ namespace MainApp
     {
         static void Main(string[] args)
         {
+            Console.Write("TITLE MENU");
+
 
             Console.Write("Enter number 1 (one):");
             int val1 = int.Parse(Console.ReadLine());
