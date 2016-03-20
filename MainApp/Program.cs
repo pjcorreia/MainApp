@@ -10,9 +10,9 @@ namespace MainApp
         static void Main(string[] args)
         {
 
-            Console.Write("Enter number 1:");
+            Console.Write("Enter number 1 (one):");
             int val1 = int.Parse(Console.ReadLine());
-            Console.Write("Enter number 2:");
+            Console.Write("Enter number 2 (two):");
             int val2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine(MainLib.MainClass.BigMethod(val1, val2));
