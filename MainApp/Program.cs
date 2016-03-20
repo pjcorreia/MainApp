@@ -9,7 +9,7 @@ namespace MainApp
     {
         static void Main(string[] args)
         {
-            Console.Write("TITLE MENU");
+            Console.Write("TITLE MENU 2");
 
 
             Console.Write("Enter number 1 (one):");
