@@ -14,10 +14,16 @@ namespace MainApp
             int val1 = int.Parse(Console.ReadLine());
             Console.Write("Enter number 2 (two):");
             int val2 = int.Parse(Console.ReadLine());
+            Console.Write("Enter number 3 (two):");
+            int val3 = int.Parse(Console.ReadLine());
 
+<<<<<<< HEAD
 
 
             Console.WriteLine(MainLib.MainClass.BigMethod(val1, val2));
+=======
+            Console.WriteLine(MainLib.MainClass.BigMethod(val1, val2)+10);
+>>>>>>> origin/master
             Console.ReadLine();
         }
     }
