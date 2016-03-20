@@ -17,13 +17,9 @@ namespace MainApp
             Console.Write("Enter number 3 (two):");
             int val3 = int.Parse(Console.ReadLine());
 
-<<<<<<< HEAD
+            //MAJOR CHANGE
 
-
-            Console.WriteLine(MainLib.MainClass.BigMethod(val1, val2));
-=======
             Console.WriteLine(MainLib.MainClass.BigMethod(val1, val2)+10);
->>>>>>> origin/master
             Console.ReadLine();
         }
     }
