@@ -1,0 +1,7 @@
+C:\temp\GIT\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\temp\GIT\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\temp\GIT\MainApp\MainApp\bin\Debug\MainLib.dll
+C:\temp\GIT\MainApp\MainApp\bin\Debug\MainLib.pdb
+C:\temp\GIT\MainApp\MainApp\obj\Debug\ResolveAssemblyReference.cache
+C:\temp\GIT\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\temp\GIT\MainApp\MainApp\obj\Debug\MainApp.pdb
